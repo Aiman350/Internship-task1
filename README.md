@@ -4,7 +4,7 @@ A Full Stack MERN Internship Dashboard developed as part of the Allied Software 
 
 ---
 
-## 📌 Project Overview
+##Project Overview
 
 The application provides a simple dashboard for interns to view their internship details and assigned tasks.
 
@@ -17,7 +17,7 @@ The frontend fetches live data from the backend and displays it in a clean and r
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Backend
 
@@ -42,7 +42,7 @@ The frontend fetches live data from the backend and displays it in a clean and r
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 - React.js
@@ -63,7 +63,7 @@ The frontend fetches live data from the backend and displays it in a clean and r
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 allied-internship-dashboard
@@ -85,7 +85,7 @@ allied-internship-dashboard
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |---------|----------|-------------|
@@ -96,7 +96,7 @@ allied-internship-dashboard
 
 ---
 
-## 📋 Internship Information Displayed
+##  Internship Information Displayed
 
 - Company Name
 - Internship Title
@@ -108,7 +108,7 @@ allied-internship-dashboard
 
 ---
 
-## 🔄 Application Workflow
+##  Application Workflow
 
 1. Backend server starts on **Port 5000**.
 2. React frontend starts using **Vite**.
@@ -118,7 +118,7 @@ allied-internship-dashboard
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### Clone the repository
 
@@ -160,23 +160,17 @@ http://localhost:5173
 
 ---
 
-## 📷 Project Preview
+##  Project Preview
 
-Add screenshots here after uploading them to the repository.
 
 Example:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/098234da-7400-469f-987e-6b0e5bcffa3e" />
 
 ```
 screenshots/dashboard.png
 ```
 
-Then use:
 
-```markdown
-![Dashboard Preview](screenshots/dashboard.png)
-```
-
----
 
 ## 📚 Concepts Practiced
 
@@ -209,12 +203,12 @@ BS Software Engineering
 
 Full Stack Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Aiman350
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+
 
 ---
 
-## ⭐ Acknowledgement
+
 
 This project was developed as part of the **Allied Software Engineers Internship Assessment** to demonstrate practical knowledge of Full Stack Web Development using the MERN stack.
